@@ -91,11 +91,11 @@
             <input type="submit" value="登录">
         </form>
         
-        <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee;">
+        <!-- <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee;">
             <a href="/login/google" style="display: block; width: 100%; padding: 12px; background-color: #4285f4; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; text-align: center; text-decoration: none;">
                 使用Google账号登录
             </a>
-        </div>
+        </div> -->
     </div>
 </body>
 </html>
